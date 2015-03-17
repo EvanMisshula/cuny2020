@@ -1,0 +1,109 @@
+#+OPTIONS: H:3 
+#+OPTIONS: tex:dvipng
+#+OPTIONS: toc:nil 
+#+STARTUP: align oddeven lognotestate
+#+SEQ_TODO: TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
+#+TAGS:       Write(w) Update(u) Fix(f) Check(c) noexport(n) export(e)
+#+Date:  
+#+TITLE: Draft for MA in Data Vis
+#+AUTHOR: GC Digital Fellows (Draft)
+#+LANGUAGE:   en
+#+EXCLUDE_TAGS: noexport
+
+
+#+LATEX_HEADER: \usepackage{attrib}
+v#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \let\iint\undefined 
+#+LATEX_HEADER: \let\iiint\undefined 
+#+LATEX_HEADER: \usepackage{dsfont}
+#+LATEX_HEADER: \usepackage[autostyle]{csquotes}
+#+LATEX_HEADER: \usepackage[backend=biber,style=authoryear-icomp,sortlocale=de_DE,natbib=true,url=false, doi=true,eprint=false]{biblatex}
+#+LATEX_HEADER: \addbibresource{mybib.bib}
+#+LATEX_HEADER: \addbibresource{/Users/emisshula/research/citations/refs.bib} 
+#+LATEX_HEADER: \usepackage[retainorgcmds]{IEEEtrantools}
+#+LATEX_HEADER: \author{Misshula, Evan\\ \texttt{Criminal Justice, CUNY Graduate Center}}
+#+LATEX_HEADER: \title{Demonstration Of Instrumental Variables And Control Function Methods}
+# \bibliography{mybib.bib,/Users/emisshula/research/citations/refs.bib} 
+
+
+* ABSTRACT
+
+The Master of Arts in Liberal Studies program at The Graduate Center, CUNY proposes a new concentration in Data Visualization. This track will provide a firm grounding in the theory and practice of visual communication by guiding students to an understanding of contemporary techniques for the analysis and presentation of information. The MALS track in Data Visualization will prepare students for careers in a range of growing sectors, including science, public policy, engineering, and management. In addition, students will gain a thorough understanding of best practices and professional standards in the engaging,  empirical, and ethical interpretation of data.
+
+The set of critical, computational, and aesthetic practices that comprise the field of data visualization are increasingly in demand. Yet practitioners of data visualization must face unique challenges and responsibilities. The MALS track in Data Visualization will train students not only to receive and depict, but to critically interpret, large sets of data. Students will incorporate concepts such as culture, context, and causality to present data accurately and effectively. Students wil also work collaboratively on projects that emulate real-world working conditions, including the critical depiction of live data sets. Finally, partnership with local businesses and institutions will enable second-year students to complete final projects that will prepare them for positions in industry, public advocacy, or the nonprofit sector. 
+
+* PURPOSE AND GOALS
+** Statement of Educational Goals
+** Statement of Professional Goals
+* NEED AND JUSTIFICATION
+** Needs of Prospective Students
+** Similar Programs within CUNY
+** Similar Programs outside CUNY
+* STUDENT INTEREST AND ENROLLMENT
+** Interest and Demand
+** Student Interest: in their own words
+** Student Enrollment Projection
+* CURRICULUM
+** Intellectual Rationale and Curriculum Philosophy
+** Course Sequence
+** Course Descriptions
+* COST ASSESSMENT
+** Faculty
+** Facilities & Equipment
+** Instructional Materials
+** Budget Tables (narrative)
+*** Sources of Income
+*** Expenses
+* EVALUATION
+** Internal Evaluation and Outcomes
+** External Evaluation
+
+
+
+* Public Scholarship
+- CUNY is a public university whose research is supported by and supports all levels
+  of government. To the greatest extent possible, the CUNY data visualization program
+  should make its work available for public consumption and criticism.
+- The CUNY data visualization program should make use of its ties to
+  cultural institutions such as the New York Public library that 
+  engage in their own efforts to broaden distribution of their data.
+- The CUNY Data Visualization program should be dedicated to increasing the public's
+  data literacy.
+- The CUNY Data Visualization program should dedicate itself to producing
+  visualizations with the highest fidelity to the underlying data.
+* Free Software
+- Just as CUNY is an open public university, it should be mindful of the tools 
+  that it trains students to use.
+- The choice of computational tools has both political and
+  philosophical implications.  Where practical, CUNY should show a
+  strong preference for software that supports its own values. Free and open source
+  software, in which code is available for review, revision and customization,
+  should be the default.
+- Just as the work of the CUNY data visualization program should contribute information
+  and understanding back to the levels of government that support CUNY.  CUNY should
+  also seek to contribute to the community of FREE software through the default
+  release of code, visualizations, and conferences.
+* Diversity
+- One of CUNY's great strengths is its racial and economic diversity. The Data Visualization
+  Program should help to create visualizations that build on this strength and weaken 
+  rather than reinforce stereotypes.
+- The program should also seek to promote a diverse student body
+  and develop curricula and materials appropriate to this aim. The program
+  should be an on-ramp for New York City residents and not just a place
+  for those who are already digitally savvy.
+* Web tools
+- The program should aim to teach students the tools that allow for
+  the broadest distribution of their work.
+- To this end, students should be able to create
+  interactive visualizations inside the browser.
+* Causality over description
+- When possible, data visualizations should elucidate causal relationships
+  rather than simply describe data.
+* Documentation
+- The highest principle of data visualization is fidelity to the data.
+  Where this is not possible in a particular graphic or visualization,
+  any known distortions should be clearly disclosed.
+- Sources of data should be adequately described.
+- Whenever possible, data should be made available in machine readable
+  format for reproducibility.
+  
