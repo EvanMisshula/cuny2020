@@ -5,14 +5,14 @@
 #+SEQ_TODO: TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
 #+TAGS:       Write(w) Update(u) Fix(f) Check(c) noexport(n) export(e)
 #+Date:  
-#+TITLE: Draft for MA in Data Vis
+#+TITLE: CUNY2020 draft proposal
 #+AUTHOR: GC Digital Fellows (Draft)
 #+LANGUAGE:   en
 #+EXCLUDE_TAGS: noexport
 
 
 #+LATEX_HEADER: \usepackage{attrib}
-v#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{amsmath}
 #+LATEX_HEADER: \let\iint\undefined 
 #+LATEX_HEADER: \let\iiint\undefined 
 #+LATEX_HEADER: \usepackage{dsfont}
@@ -25,7 +25,6 @@ v#+LATEX_HEADER: \usepackage{amsmath}
 #+LATEX_HEADER: \title{Demonstration Of Instrumental Variables And Control Function Methods}
 # \bibliography{mybib.bib,/Users/emisshula/research/citations/refs.bib} 
 
-* CUNY2020 proposal
 ** Abstract
 
 The Master of Arts in Liberal Studies program at The Graduate Center, CUNY proposes a new concentration in Data Visualization. This track will provide a firm grounding in the theory and practice of visual communication by guiding students to an understanding of contemporary techniques for the analysis and presentation of information. The MALS track in Data Visualization will prepare students for careers in a range of growing sectors, including science, public policy, engineering, and management. In addition, students will gain a thorough understanding of best practices and professional standards in the engaging,  empirical, and ethical interpretation of data.
